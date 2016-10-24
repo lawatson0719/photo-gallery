@@ -1,0 +1,26 @@
+.full-scale {
+	display: block;
+	margin: 0 auto;
+	width: 710px;
+	height: 445px;
+}
+
+.thumbnail {
+	display: inline-block;
+	width: 200px;
+	height: 135px;
+	padding: 0 5px;
+}
+
+.wrapper {
+	text-align: center;
+	padding: 10px;
+	position: relative;
+}
+
+.fullscreen {
+	width: 100vw;
+	height: 100vh;
+	position: absolute;
+	z-index: 1;
+}
